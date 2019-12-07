@@ -5,7 +5,7 @@
   - [issue#106](https://github.com/cesanta/mjs/issues/106)
 - Download:
   ```
-  git [clone git://repo.or.cz/nasm.git](https://github.com/cesanta/mjs)
+  git clone https://github.com/cesanta/mjs
   git checkout 2827bd00b59bdc176a010b22fc4acde9b580d6c2
   ```
 - install:`clang mjs.c -DMJS_MAIN -fsanitize=address -g -o mjs.out -ldl`
