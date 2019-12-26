@@ -8,7 +8,7 @@
 - Download:
   ```
   git clone https://github.com/jbeder/yaml-cpp
-  git checkout cdbacf53a4ddac2bf1bc2f4bbe93fbe0a06bfff7
+  git checkout 562aefc114938e388457e6a531ed7b54d9dc1b62
   ```
 - Reproduce: `parse @@`
 - ASAN dumps the backtrace:
